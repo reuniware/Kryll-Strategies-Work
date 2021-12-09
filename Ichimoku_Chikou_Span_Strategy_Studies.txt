@@ -2,8 +2,8 @@
 DOGE/USDT Binance
 
 *** Stratégie :
-Quand Chikou croise à la hausse le prix en 1H => Acheter 100% au market
-Quand Chikou croise à la baisse le prix en 1H => Vendre 100% au market
+Quand Chikou croise à la hausse le prix en 1h => Acheter 100% au market
+Quand Chikou croise à la baisse le prix en 1h => Vendre 100% au market
 
 *** Détails du backtest :
 Date de début du backtest : 13 Janvier 2021   Date de fin du backtest : 09 Décembre 2021
@@ -17,8 +17,8 @@ Valeur finale si BUY AND HOLD : 11,172.63 USDT <=> +2,134.526 %
 SHIB/USDT Binance
 
 *** Stratégie :
-Quand Chikou croise à la hausse le prix en 1H => Acheter 100% au market
-Quand Chikou croise à la baisse le prix en 1H => Vendre 100% au market
+Quand Chikou croise à la hausse le prix en 1h => Acheter 100% au market
+Quand Chikou croise à la baisse le prix en 1h => Vendre 100% au market
 
 *** Détails du backtest :
 Date de début du backtest : 10 Mai 2021   Date de fin du backtest : 09 Décembre 2021
@@ -32,8 +32,8 @@ Valeur finale si BUY AND HOLD :  +804.997 USDT <=> +160.999 %
 MATIC/USDT Binance
 
 *** Stratégie :
-Quand Chikou croise à la hausse le prix en 1H => Acheter 100% au market
-Quand Chikou croise à la baisse le prix en 1H => Vendre 100% au market
+Quand Chikou croise à la hausse le prix en 1h => Acheter 100% au market
+Quand Chikou croise à la baisse le prix en 1h => Vendre 100% au market
 
 *** Détails du backtest :
 Date de début du backtest : 01 Janvier 2021   Date de fin du backtest : 09 Décembre 2021
@@ -58,5 +58,19 @@ Valeur finale :     4,669.819 USDT <=> +833.964 %
 *** Comparaison avec BUY AND HOLD
 Valeur finale si BUY AND HOLD : 66,351.493 USDT <=> +13,170.299 %
 
+****************************************************************************************
+MATIC/USDT Binance
+
+*** Stratégie :
+Quand Chikou croise à la hausse le prix en 1h => Acheter 100% au market
+Quand Chikou croise à la baisse le prix en 2h => Vendre 100% au market
+
+*** Détails du backtest :
+Date de début du backtest : 01 Janvier 2021   Date de fin du backtest : 09 Décembre 2021
+Valeur de départ :  500 USDT
+Valeur finale :     20,546.363 USDT <=> +4,009.273 %
+
+*** Comparaison avec BUY AND HOLD
+Valeur finale si BUY AND HOLD : 64,516.361 USDT	<=> +12,803.272 %
 
 
