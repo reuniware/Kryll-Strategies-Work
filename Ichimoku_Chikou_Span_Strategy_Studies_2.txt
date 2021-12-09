@@ -1,0 +1,35 @@
+LINK/USDT sur FTX
+
+
+trigger achat : chikou passe au-dessus du prix en 4h
+trigger vente 1 : augmentation du prix de 2%
+trigger vente 2 : baisse du prix de 25%
+date départ : 	21 avr 2020
+date fin :		09 déc 2021
+valeur de départ :  			500 USDT
+valeur finale : 				1,422.067 USDT	+184.413%
+nb trades : 					181
+valeur finale si buy and hold :	2988.868 USDT	+497.774%
+
+
+trigger achat : chikou passe au-dessus du prix en 4h
+trigger vente 1 : augmentation du prix de 2.5%
+trigger vente 2 : baisse du prix de 25%
+date départ : 	21 avr 2020
+date fin :		09 déc 2021
+valeur de départ :  			500 USDT
+valeur finale : 				1,329.391 USDT	+165.878%
+nb trades : 					165
+valeur finale si buy and hold :	2488.868 USDT	+497.774%
+
+
+trigger achat : chikou passe au-dessus du prix en 4h
+trigger vente 1 : augmentation du prix de 1.5%
+trigger vente 2 : baisse du prix de 25%
+date départ : 	21 avr 2020
+date fin :		09 déc 2021
+valeur de départ :  			500 USDT
+valeur finale : 				922.509 USDT	+84.502%
+nb trades : 					197
+valeur finale si buy and hold :	2488.868 USDT	+497.774%
+
