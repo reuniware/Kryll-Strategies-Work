@@ -5,6 +5,22 @@ For any inquiries, feel free to contact me by email at InvestDataSystems@Yahoo.c
 DOGE/USDT Binance
 
 *** Stratégie :
+Quand Chikou croise à la hausse le prix en 4h => Acheter 100% au market
+Quand le prix a gagné 0.5% => Vendre 100% au market
+
+*** Détails du backtest :
+Date de début du backtest : 01 Novembre 2021   Date de fin du backtest : 09 Décembre 2021
+Valeur de départ :  500 USDT
+Valeur finale :     514.393 USDT <=> +2.879 %
+
+*** Comparaison avec BUY AND HOLD
+Valeur finale si BUY AND HOLD : 312.165 USDT <=> -37.567 %	
+
+
+****************************************************************************************
+DOGE/USDT Binance
+
+*** Stratégie :
 Quand Chikou croise à la hausse le prix en 1h => Acheter 100% au market
 Quand Chikou croise à la baisse le prix en 1h => Vendre 100% au market
 
