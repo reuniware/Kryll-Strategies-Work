@@ -73,4 +73,19 @@ Valeur finale :     20,546.363 USDT <=> +4,009.273 %
 *** Comparaison avec BUY AND HOLD
 Valeur finale si BUY AND HOLD : 64,516.361 USDT	<=> +12,803.272 %
 
+****************************************************************************************
+MATIC/USDT Binance
+
+*** Stratégie :
+Quand Chikou croise à la hausse le prix en 15m => Acheter 100% au market
+Quand Chikou croise à la baisse le prix en 2h => Vendre 100% au market
+
+*** Détails du backtest :
+Date de début du backtest : 01 Janvier 2021   Date de fin du backtest : 09 Décembre 2021
+Valeur de départ :  500 USDT
+Valeur finale :     33,957.424 USDT <=> +6,691.485 %
+
+*** Comparaison avec BUY AND HOLD
+Valeur finale si BUY AND HOLD : 64,516.361 USDT	<=> +12,803.272 %
+
 
