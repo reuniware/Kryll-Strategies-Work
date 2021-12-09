@@ -41,6 +41,6 @@ Valeur de départ :  500 USDT
 Valeur finale :     1,816.394 USDT <=> +263.279 %
 
 *** Comparaison avec BUY AND HOLD
-Valeur finale si BUY AND HOLD :  +65,851.493 USDT	<=> +13,170.299 %		
+Valeur finale si BUY AND HOLD : +65,851.493 USDT <=> +13,170.299 %		
 
 
