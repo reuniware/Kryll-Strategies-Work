@@ -35,7 +35,7 @@ valeur finale si buy and hold :	2488.868 USDT	+497.774%
 
 
 
-LINA/USDT
+LUNA/USDT sur Binance
 
 trigger achat : chikou passe au-dessus du prix en 15m
 trigger vente 1 : chikou passe sous le prix en 2h
@@ -65,6 +65,17 @@ valeur de départ :  		500 USDT
 valeur finale : 				7,814.553 USDT  +1,462.911 %  
 nb trades : 					  145
 valeur finale si buy and hold :	5,200.925 USDT  +940.185 %	
+
+
+trigger achat : chikou passe au-dessus du prix en 15m
+trigger vente 1 : chikou passe sous le prix en 2h
+date départ : 	1 jan 2021
+date fin :		10 déc 2021
+valeur de départ :  		500 USDT
+valeur finale : 				46,422.477 USDT  +9,184.495 %  
+nb trades : 					  323
+valeur finale si buy and hold :	53,321.76 USDT  +10,564.352 %	
+
 
 
 
