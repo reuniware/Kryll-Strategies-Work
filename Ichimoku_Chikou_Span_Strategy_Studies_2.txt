@@ -47,3 +47,14 @@ nb trades : 					  83
 valeur finale si buy and hold :	1,150.318 USDT  +130.064 %	
 
 
+trigger achat : chikou passe au-dessus du prix en 15m
+trigger vente 1 : chikou passe sous le prix en 2h
+date départ : 	10 aoû 2021
+date fin :		10 déc 2021
+valeur de départ :  		500 USDT
+valeur finale : 				4,913.684 USDT  +882.737 %  
+nb trades : 					  117
+valeur finale si buy and hold :	3,152.739 USDT  +530.548 %	
+
+
+
